@@ -1,4 +1,4 @@
-# go-bdd
+# Behavior-Driven Development
 
 ![BDD Operation](https://cms-cdn.katalon.com/BDD_Operation_39de9dd9ff.png)
 
