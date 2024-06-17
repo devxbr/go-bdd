@@ -4,7 +4,8 @@
 
 ## Overview
 
-go-bdd is a simple Behavior-Driven Development (BDD) framework for Go, leveraging Gherkin for defining test cases. This repository includes a basic calculator example to demonstrate the functionality.
+go-bdd is a simple Behavior-Driven Development (BDD) framework for Go, leveraging Gherkin for defining test cases. 
+This repository includes a basic calculator example to demonstrate the functionality.
 
 ## Features
 
